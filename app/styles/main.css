@@ -1,0 +1,48 @@
+
+
+@charset "windows-1252";
+
+@font-face  {
+  font-family: 'OpenDyslexic';
+  font-weight: normal;
+  font-style: normal;
+
+  src: url('/fonts/OpenDyslexic-Regular-Webfont.eot') format('eot');
+  src: url('/fonts/OpenDyslexic-Regular-Webfont.woff') format('woff'),
+       url('/fonts/OpenDyslexic-Regular-Webfont.ttf') format('truetype'),
+       url('/fonts/OpenDyslexic-Regular-Webfont.svg#webfont') format('svg');
+}
+@font-face  {
+  font-family: 'OpenDyslexic';
+  font-weight: bold;
+  font-style: normal;
+
+  src: url('/fonts/OpenDyslexic-Bold-Webfont.eot') format('eot');
+  src: url('/fonts/OpenDyslexic-Bold-Webfont.woff') format('woff'),
+       url('/fonts/OpenDyslexic-Bold-Webfont.ttf') format('truetype'),
+       url('/fonts/OpenDyslexic-Bold-Webfont.svg#webfont') format('svg');
+}
+@font-face  {
+  font-family: 'OpenDyslexic';
+  font-weight: normal;
+  font-style: italic;
+
+  src: url('/fonts/OpenDyslexic-Italic-Webfont.eot') format('eot');
+  src: url('/fonts/OpenDyslexic-Italic-Webfont.woff') format('woff'),
+       url('/fonts/OpenDyslexic-Italic-Webfont.ttf') format('truetype'),
+       url('/fonts/OpenDyslexic-Italic-Webfont.svg#webfont') format('svg');
+}
+@font-face  {
+  font-family: 'OpenDyslexic';
+  font-weight: bold;
+  font-style: italic;
+
+  src: url('/fonts/OpenDyslexic-BoldItalic-Webfont.eot') format('eot');
+  src: url('/fonts/OpenDyslexic-BoldItalic-Webfont.woff') format('woff'),
+       url('/fonts/OpenDyslexic-BoldItalic-Webfont.ttf') format('truetype'),
+       url('/fonts/OpenDyslexic-BoldItalic-Webfont.svg#webfont') format('svg');
+}
+
+*, input  {
+  font-family: 'OpenDyslexic';
+}

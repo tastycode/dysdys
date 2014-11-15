@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "dysdys",
+    "description": "Allows pages to be more easily read by those with symptoms of dyslexia"
+  },
+  "appDescription": {
+    "message": "This extension automatically converts your fonts to a more readable typeface for those with symptoms of dyslexia.",
+    "description": "The description of the application"
+  }
+}
